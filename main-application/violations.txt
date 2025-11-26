@@ -1,0 +1,3 @@
+# Person ID, Violation Count
+# This file tracks uniform violations for students and teachers
+# Format: RFID_ID,Violation_Count

@@ -1,0 +1,2776 @@
+2025-07-27 13:10:36,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:12:05,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:14:19,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:14:19,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:14:24,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:14:24,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:14:31,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:14:31,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:17:17,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:17:17,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:19:29,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:19:34,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:19:34,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:19:34,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:19:46,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:19:50,0095272825,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:19:55,0095243442,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:19:59,0095339862,TAP,GUARD,John Smith,SUCCESS
+2025-07-27 13:21:01,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:21:10,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:21:13,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:21:13,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:21:19,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:21:45,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:21:45,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:21:57,0095339862,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:22:07,0095339862,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:22:10,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:22:14,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:22:18,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:23:57,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:23:59,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:24:00,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:24:01,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:24:05,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:26:23,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:26:36,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:26:41,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:29:31,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 13:29:31,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 13:29:31,0,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 13:30:48,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 13:30:52,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:31:03,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:31:05,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 13:31:08,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:49:29,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:49:40,0095272825,MANUAL_STUDENT,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 13:52:56,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 13:55:11,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:02:01,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:03:29,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:03:58,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:05:35,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:05:51,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:08:40,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:10:37,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:11:53,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:13:14,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:14:11,B0796972,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:14:31,0095272249,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:14:37,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:16:28,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:19:02,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:19:44,830B9708,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:23:24,0095339862,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:25:19,A9E13836,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:26:54,0095272249,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:26:54,0095272249,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:26:56,0095081841,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:27:00,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 14:27:01,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 14:27:01,0095243442,TAP,SPECIAL,Special Pass,SUCCESS
+2025-07-27 14:27:17,0095243442,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 14:31:23,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:31:29,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 14:34:06,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 14:34:14,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 14:34:19,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-07-27 14:34:27,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-07-27 14:35:25,20457789,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 15:17:13,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 15:17:13,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-07-27 15:17:26,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-07-27 15:17:46,0095272825,TAP,STUDENT,Alice Johnson,SUCCESS
+2025-07-27 15:19:37,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 15:21:31,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 15:22:57,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 15:23:20,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-07-27 15:32:22,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-07-27 15:33:32,A29ED157,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 15:34:28,32AA6CCE,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 15:36:47,97185FDD,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-07-27 15:49:37,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 15:57:05,macos python issue fix,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 15:57:14,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 15:58:08,#!/usr/bin/env python3
+"""
+AI-niform Application
+A Python GUI application with login and turnstile interfaces in one application.
+"""
+
+import tkinter as tk
+from tkinter import ttk, messagebox
+import time
+from datetime import datetime
+from database_manager import DatabaseManager
+
+class AINiformApp:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("AI-niform")
+        self.root.geometry("1280x768")
+        self.root.resizable(False, False)
+        
+        # Configure the main window
+        self.root.configure(bg='white')
+        
+        # Create main frame with border
+        self.main_frame = tk.Frame(root, bg='#f0f0f0', relief='solid', bd=1)
+        self.main_frame.pack(fill='both', expand=True, padx=10, pady=10)
+        
+        # Create content frame (white background)
+        self.content_frame = tk.Frame(self.main_frame, bg='white')
+        self.content_frame.pack(fill='both', expand=True, padx=2, pady=2)
+        
+        # Initialize variables
+        self.current_screen = "login"
+        self.time_label = None
+        self.date_label = None
+        self.db_manager = DatabaseManager()
+        self.card_input_var = tk.StringVar()
+        self.card_entry = None  # Store reference to card entry field
+        self.is_processing = False  # Flag to prevent duplicate processing
+        self.current_guard = None  # Store current guard information
+        self.last_response_message = ""  # Message to show on guard splash right panel
+        self.guard_message_label = None  # Reference to splash message label for updates
+        self.message_reset_after_id = None  # Timer handle for auto-clearing panel message
+        self.guard_student_inline_var = None  # Guard splash student ID var
+        self.visitor_student_inline_var = None  # Visitor form student ID var
+        
+        # Start with login screen
+        self.show_login_screen()
+        self.update_time()
+    
+    def clear_content(self):
+        """Clear all widgets from content frame"""
+        for widget in self.content_frame.winfo_children():
+            widget.destroy()
+    
+    def show_login_screen(self):
+        """Show the login screen"""
+        self.current_screen = "login"
+        self.clear_content()
+        
+        # Create main content area
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Application name/logo
+        app_name_frame = tk.Frame(content_area, bg='white')
+        app_name_frame.pack(expand=True)
+        
+        # AI-niform text with different colors
+        ai_text = tk.Label(
+            app_name_frame,
+            text="AI-",
+            font=('Arial', 36, 'bold'),
+            fg='#0066cc',  # Bright blue
+            bg='white'
+        )
+        ai_text.pack(side='left')
+        
+        niform_text = tk.Label(
+            app_name_frame,
+            text="niform",
+            font=('Arial', 36, 'bold'),
+            fg='#003366',  # Dark blue/black
+            bg='white'
+        )
+        niform_text.pack(side='left')
+        
+        # Log-in button
+        login_button = tk.Button(
+            content_area,
+            text="Log-in",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#28a745',  # Green
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=10,
+            cursor='hand2',
+            command=self.show_turnstile_screen
+        )
+        login_button.pack(pady=20)
+        
+        # Footer bar
+        self.create_footer("quit")
+    
+    def show_turnstile_screen(self):
+        """Show the turnstile screen"""
+        self.current_screen = "turnstile"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area
+        self.create_main_content()
+        
+        # Footer bar
+        self.create_footer("back")
+    
+    def create_top_banner(self):
+        """Create the orange top banner with 'Turnstile is Closed' text"""
+        banner_frame = tk.Frame(self.content_frame, bg='#FF8C00', height=80)
+        banner_frame.pack(fill='x')
+        banner_frame.pack_propagate(False)
+        
+        # Turnstile status text
+        status_label = tk.Label(
+            banner_frame,
+            text="Turnstile is Closed",
+            font=('Arial', 24, 'bold'),
+            fg='black',
+            bg='#FF8C00'
+        )
+        status_label.pack(expand=True)
+        
+        # Light grey separator line
+        separator = tk.Frame(self.content_frame, bg='#d3d3d3', height=2)
+        separator.pack(fill='x')
+    
+    def create_main_content(self):
+        """Create the main content area with logo and instructions"""
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Left side (white panel with AI-niform logo)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # AI-niform logo
+        logo_frame = tk.Frame(left_panel, bg='white')
+        logo_frame.pack(expand=True)
+        
+        # AI-niform text
+        ai_text = tk.Label(
+            logo_frame,
+            text="AI-",
+            font=('Arial', 48, 'bold'),
+            fg='#007BFF',  # Bright blue
+            bg='white'
+        )
+        ai_text.pack(side='left')
+        
+        niform_text = tk.Label(
+            logo_frame,
+            text="niform",
+            font=('Arial', 48, 'bold'),
+            fg='#212529',  # Dark blue/black
+            bg='white'
+        )
+        niform_text.pack(side='left')
+        
+        # Right side (blue panel with instructions)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Instructions text
+        instructions_frame = tk.Frame(right_panel, bg='#1E90FF')
+        instructions_frame.pack(expand=True, padx=40, pady=40)
+        
+        instructions_text = """Please tap
+your ID to
+the Card
+Reader."""
+        
+        instructions_label = tk.Label(
+            instructions_frame,
+            text=instructions_text,
+            font=('Arial', 28, 'bold'),
+            fg='white',
+            bg='#1E90FF',
+            justify='left'
+        )
+        instructions_label.pack(anchor='w')
+        
+        # Card input section
+        card_frame = tk.Frame(right_panel, bg='#1E90FF')
+        card_frame.pack(fill='x', padx=40, pady=20)
+        
+        # Guard ID label and input frame
+        guard_input_frame = tk.Frame(card_frame, bg='#1E90FF')
+        guard_input_frame.pack(anchor='w', pady=(5, 10))
+        
+        # Guard ID label
+        guard_id_label = tk.Label(
+            guard_input_frame,
+            text="Guard ID: ",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_id_label.pack(side='left')
+        
+        # Card ID input (hidden for RFID keyboard input)
+        self.card_entry = tk.Entry(
+            guard_input_frame,
+            textvariable=self.card_input_var,
+            font=('Arial', 14),
+            width=15,
+            relief='solid',
+            bd=1,
+            show='*'  # Hide the input for security
+        )
+        self.card_entry.pack(side='left')
+        self.card_entry.focus()
+        
+        # Bind events for automatic RFID processing
+        self.card_entry.bind('<KeyRelease>', self.on_rfid_input)
+        self.card_entry.bind('<Return>', self.process_card)
+        
+        # Status label
+        self.status_label = tk.Label(
+            card_frame,
+            text="Ready for card tap...",
+            font=('Arial', 12, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.status_label.pack(anchor='w', pady=(5, 10))
+    
+    def create_footer(self, button_type):
+        """Create the footer bar with time, date, and button"""
+        footer_frame = tk.Frame(self.content_frame, bg='white')
+        footer_frame.pack(side='bottom', fill='x')
+        
+        # Time section (light blue)
+        time_frame = tk.Frame(footer_frame, bg='#12A7FB', height=50)
+        time_frame.pack(side='left', fill='x', expand=True)
+        time_frame.pack_propagate(False)
+        
+        self.time_label = tk.Label(
+            time_frame,
+            text="",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#12A7FB'
+        )
+        self.time_label.pack(expand=True)
+        
+        # Date section (dark blue)
+        date_frame = tk.Frame(footer_frame, bg='#003366', height=50)
+        date_frame.pack(side='left', fill='x', expand=True)
+        date_frame.pack_propagate(False)
+        
+        self.date_label = tk.Label(
+            date_frame,
+            text="",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#003366'
+        )
+        self.date_label.pack(expand=True)
+        
+        # Button section (orange) - fixed width to align with right panel
+        button_frame = tk.Frame(footer_frame, bg='#FF8C00', height=50, width=400)
+        button_frame.pack(side='right')
+        button_frame.pack_propagate(False)
+        
+        if button_type == "quit":
+            button_text = "Quit"
+            button_command = self.quit_action
+        elif button_type == "logout":
+            button_text = "Log out"
+            button_command = self.logout_action
+        else:  # back
+            button_text = "Back"
+            button_command = self.back_action
+        
+        button = tk.Label(
+            button_frame,
+            text=button_text,
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#FF8C00',
+            cursor='hand2'
+        )
+        button.pack(expand=True)
+        button.bind('<Button-1>', button_command)
+    
+    def update_time(self):
+        """Update the time and date display"""
+        if self.time_label and self.date_label:
+            now = datetime.now()
+            
+            # Format time (12-hour format with am/pm)
+            time_str = now.strftime("%I:%M:%S %p").lower()
+            self.time_label.config(text=time_str)
+            
+            # Format date
+            date_str = now.strftime("%B %d, %Y")
+            self.date_label.config(text=date_str)
+        
+        # Update every second
+        self.root.after(1000, self.update_time)
+    
+    def on_rfid_input(self, event=None):
+        """Handle automatic RFID keyboard input"""
+        if self.is_processing:
+            return  # Prevent duplicate processing
+        
+        card_id = self.card_input_var.get().strip()
+        
+        # Check if we have a complete RFID code (typically 10 digits)
+        if len(card_id) >= 10:
+            self.is_processing = True
+            # Update status
+            self.status_label.config(text="Processing card...")
+            self.root.update()
+            
+            # Process the card after a short delay to ensure complete input
+            self.root.after(100, self.process_card)
+    
+    def process_card(self, event=None):
+        """Process the card tap"""
+        if not self.is_processing:
+            return  # Prevent duplicate processing from Enter key
+        
+        card_id = self.card_input_var.get().strip()
+        
+        if not card_id:
+            self.is_processing = False
+            return
+        
+        # Update status
+        self.status_label.config(text="Validating access...")
+        self.root.update()
+        
+        # Log the access attempt
+        self.db_manager.log_access(card_id, "TAP")
+        
+        # Find the person in database
+        person = self.db_manager.find_person(card_id)
+        
+        if person:
+            if person['role'] == 'GUARD':
+                # Store current guard information
+                self.current_guard = person
+                # Guard access granted - show new splash screen
+                self.status_label.config(text="ACCESS GRANTED", fg='green')
+                # Clear the input field
+                self.card_input_var.set("")
+                # Show guard splash screen after 2 seconds
+                self.root.after(2000, self.show_guard_splash_screen)
+                # Clear any previous message after showing success
+                self.last_response_message = ""
+            elif person['role'] == 'SPECIAL':
+                # Special pass access denied on turnstile screen
+                self.status_label.config(text="ACCESS DENIED", fg='red')
+                self.last_response_message = "Unknown / Invalid ID has been scanned."
+                # Clear the input field and reset after delay
+                self.card_input_var.set("")
+                # Reset status and processing flag after 3 seconds
+                self.root.after(3000, self.reset_status)
+                # Refocus the entry field for next card
+                if self.card_entry and self.current_screen == "turnstile":
+                    self.card_entry.focus()
+            else:
+                # Student access denied
+                self.status_label.config(text="ACCESS DENIED", fg='red')
+                # Clear the input field and reset after delay
+                self.card_input_var.set("")
+                # Reset status and processing flag after 3 seconds
+                self.root.after(3000, self.reset_status)
+                # Refocus the entry field for next card
+                if self.card_entry and self.current_screen == "turnstile":
+                    self.card_entry.focus()
+        else:
+            # Show access denied status (no message box)
+            self.status_label.config(text="ACCESS DENIED", fg='red')
+            self.last_response_message = "Unknown / Invalid ID has been scanned."
+            # Clear the input field and reset after delay
+            self.card_input_var.set("")
+            # Reset status and processing flag after 3 seconds
+            self.root.after(3000, self.reset_status)
+            # Refocus the entry field for next card
+            if self.card_entry and self.current_screen == "turnstile":
+                self.card_entry.focus()
+    
+    def reset_status(self):
+        """Reset the status and processing flag"""
+        self.status_label.config(text="Ready for card tap...", fg='white')
+        self.is_processing = False
+    
+    def show_guard_splash_screen(self):
+        """Show the guard splash screen"""
+        self.current_screen = "guard_splash"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area
+        self.create_guard_main_content()
+        
+        # Footer bar
+        self.create_footer("logout")
+        
+        # Schedule auto-clear of any prior message to default after 5 seconds
+        if self.last_response_message:
+            if self.message_reset_after_id is not None:
+                try:
+                    self.root.after_cancel(self.message_reset_after_id)
+                except Exception:
+                    pass
+            self.message_reset_after_id = self.root.after(5000, self.reset_guard_message)
+    
+    def create_guard_main_content(self):
+        """Create the main content area for guard splash screen"""
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Left side (white panel with AI-niform logo)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # AI-niform logo
+        logo_frame = tk.Frame(left_panel, bg='white')
+        logo_frame.pack(expand=True)
+        
+        # AI-niform text
+        ai_text = tk.Label(
+            logo_frame,
+            text="AI-",
+            font=('Arial', 48, 'bold'),
+            fg='#007BFF',  # Bright blue
+            bg='white'
+        )
+        ai_text.pack(side='left')
+        
+        niform_text = tk.Label(
+            logo_frame,
+            text="niform",
+            font=('Arial', 48, 'bold'),
+            fg='#212529',  # Dark blue/black
+            bg='white'
+        )
+        niform_text.pack(side='left')
+        
+        # Right side (blue panel with options)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Content frame for right panel
+        content_frame = tk.Frame(right_panel, bg='#1E90FF')
+        content_frame.pack(expand=True, padx=40, pady=40)
+        
+        # Message area (shows last response or default text)
+        message_text = self.last_response_message if self.last_response_message else "Awaiting ID card scan."
+        self.guard_message_label = tk.Label(
+            content_frame,
+            text=message_text,
+            font=('Arial', 20, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.guard_message_label.pack(anchor='w', pady=(0, 30))
+        
+        # Visitor button
+        visitor_button = tk.Button(
+            content_frame,
+            text="Visitor",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_action
+        )
+        visitor_button.pack(fill='x', pady=(0, 15))
+        
+        # Student button
+        student_button = tk.Button(
+            content_frame,
+            text="Student",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.student_action
+        )
+        student_button.pack(fill='x', pady=(0, 30))
+
+        
+        
+        # Student ID inline textbox (guard splash)
+        inline_student_label = tk.Label(
+            content_frame,
+            text="Student ID:",
+            font=('Arial', 12, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        inline_student_label.pack(anchor='w')
+        
+        self.guard_student_inline_var = tk.StringVar()
+        inline_student_entry = tk.Entry(
+            content_frame,
+            textvariable=self.guard_student_inline_var,
+            font=('Arial', 14),
+            width=20,
+            relief='solid',
+            bd=1
+        )
+        inline_student_entry.pack(fill='x', pady=(0, 15))
+        inline_student_entry.bind('<Return>', self.submit_student_inline)
+        
+        # Guard in-charge section
+        guard_frame = tk.Frame(content_frame, bg='#1E90FF')
+        guard_frame.pack(fill='x')
+        
+        guard_label = tk.Label(
+            guard_frame,
+            text="Guard in-charge:",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_label.pack(anchor='w')
+        
+        # Get guard name from stored information or use default
+        guard_name = self.current_guard['name'] if self.current_guard else "Unknown Guard"
+        
+        guard_name_label = tk.Label(
+            guard_frame,
+            text=guard_name,
+            font=('Arial', 12),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_name_label.pack(anchor='w')
+    
+    def visitor_action(self):
+        """Handle visitor button click"""
+        self.show_visitor_form_screen()
+    
+    def show_visitor_form_screen(self):
+        """Show the visitor form screen"""
+        self.current_screen = "visitor_form"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area (with reduced expansion to leave space for footer)
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True, pady=(0, 10))  # Minimal space for footer
+        
+        # Create visitor form content within the content area
+        self.create_visitor_form_content(content_area)
+        
+        # Footer bar
+        self.create_footer("back")
+    
+    def create_visitor_form_content(self, content_area):
+        """Create the visitor form content within the provided content area"""
+        
+        # Left side (white panel with visitor form)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # Create a canvas with scrollbar for the form
+        canvas = tk.Canvas(left_panel, bg='white', highlightthickness=0)
+        scrollbar = ttk.Scrollbar(left_panel, orient="vertical", command=canvas.yview)
+        scrollable_frame = tk.Frame(canvas, bg='white')
+        
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+        
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+        
+        # Bind mouse wheel scrolling
+        def _on_mousewheel(event):
+            canvas.yview_scroll(int(-1*(event.delta/120)), "units")
+        
+        canvas.bind_all("<MouseWheel>", _on_mousewheel)
+        
+        # Unbind mouse wheel when leaving the canvas
+        def _on_leave(event):
+            canvas.unbind_all("<MouseWheel>")
+        
+        def _on_enter(event):
+            canvas.bind_all("<MouseWheel>", _on_mousewheel)
+        
+        canvas.bind("<Enter>", _on_enter)
+        canvas.bind("<Leave>", _on_leave)
+        
+        # Visitor form section
+        form_frame = tk.Frame(scrollable_frame, bg='white')
+        form_frame.pack(expand=True, padx=50, pady=30)
+        
+        # Pack canvas and scrollbar
+        canvas.pack(side="left", fill="both", expand=True)
+        scrollbar.pack(side="right", fill="y")
+        
+        # Form title
+        title_label = tk.Label(
+            form_frame,
+            text="Visitor Registration Form",
+            font=('Arial', 20, 'bold'),
+            fg='black',
+            bg='white'
+        )
+        title_label.pack(pady=(0, 30))
+        
+        # Initialize form variables
+        self.visitor_name_var = tk.StringVar()
+        self.visitor_contact_var = tk.StringVar()
+        self.visitor_type_var = tk.StringVar()
+        self.visitor_purpose_var = tk.StringVar()
+        self.visitor_visiting_var = tk.StringVar()
+        self.visitor_id_type_var = tk.StringVar()
+        self.visitor_special_pass_var = tk.StringVar()
+        
+        # Full Name
+        name_label = tk.Label(form_frame, text="Full Name:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        name_label.pack(anchor='w', pady=(0, 5))
+        name_entry = tk.Entry(form_frame, textvariable=self.visitor_name_var, font=('Arial', 12), 
+                             width=40, relief='solid', bd=1, bg='#f0f0f0')
+        name_entry.pack(fill='x', pady=(0, 15))
+        
+        # Contact Number
+        contact_label = tk.Label(form_frame, text="Contact Number:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        contact_label.pack(anchor='w', pady=(0, 5))
+        contact_entry = tk.Entry(form_frame, textvariable=self.visitor_contact_var, font=('Arial', 12), 
+                                width=40, relief='solid', bd=1, bg='#f0f0f0')
+        contact_entry.pack(fill='x', pady=(0, 15))
+        
+        # Visiting as
+        visiting_as_label = tk.Label(form_frame, text="Visiting as:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        visiting_as_label.pack(anchor='w', pady=(0, 5))
+        visiting_as_combo = ttk.Combobox(form_frame, textvariable=self.visitor_type_var, 
+                                        values=["Guest", "Contractor", "Vendor", "Official Visitor", "Other"], 
+                                        state="readonly", width=37)
+        visiting_as_combo.pack(fill='x', pady=(0, 15))
+        
+        # Purpose of Visit
+        purpose_label = tk.Label(form_frame, text="Purpose of Visit:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        purpose_label.pack(anchor='w', pady=(0, 5))
+        purpose_entry = tk.Entry(form_frame, textvariable=self.visitor_purpose_var, font=('Arial', 12), 
+                                width=40, relief='solid', bd=1, bg='#f0f0f0')
+        purpose_entry.pack(fill='x', pady=(0, 15))
+        
+        # Who are you visiting
+        visiting_label = tk.Label(form_frame, text="Who are you visiting?:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        visiting_label.pack(anchor='w', pady=(0, 5))
+        visiting_entry = tk.Entry(form_frame, textvariable=self.visitor_visiting_var, font=('Arial', 12), 
+                                 width=40, relief='solid', bd=1, bg='#f0f0f0')
+        visiting_entry.pack(fill='x', pady=(0, 15))
+        
+        # Type of Valid ID
+        id_type_label = tk.Label(form_frame, text="Type of Valid ID:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        id_type_label.pack(anchor='w', pady=(0, 5))
+        id_type_combo = ttk.Combobox(form_frame, textvariable=self.visitor_id_type_var, 
+                                    values=["Driver's License", "Passport", "National ID", "Company ID", "Other"], 
+                                    state="readonly", width=37)
+        id_type_combo.pack(fill='x', pady=(0, 15))
+        
+        # Special Pass ID
+        special_pass_label = tk.Label(form_frame, text="Special Pass ID:", font=('Arial', 12, 'bold'), fg='black', bg='white')
+        special_pass_label.pack(anchor='w', pady=(0, 5))
+        special_pass_entry = tk.Entry(form_frame, textvariable=self.visitor_special_pass_var, 
+                                     font=('Arial', 12), width=37, relief='solid', bd=1)
+        special_pass_entry.pack(fill='x', pady=(0, 30))
+        
+        # Submit button
+        submit_button = tk.Button(
+            form_frame,
+            text="Submit",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#007BFF',  # Blue
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=10,
+            cursor='hand2',
+            command=self.submit_visitor
+        )
+        submit_button.pack(anchor='e')
+        
+        # Right side (blue panel with options)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Content frame for right panel
+        content_frame = tk.Frame(right_panel, bg='#1E90FF')
+        content_frame.pack(expand=True, padx=40, pady=40)
+        
+        # Right panel message area (shared behavior)
+        right_message_text = self.last_response_message if self.last_response_message else "Awaiting ID card scan."
+        self.guard_message_label = tk.Label(
+            content_frame,
+            text=right_message_text,
+            font=('Arial', 20, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.guard_message_label.pack(anchor='w', pady=(0, 30))
+        
+        # Visitor button (bright yellow)
+        visitor_button = tk.Button(
+            content_frame,
+            text="Visitor",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Bright yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_action
+        )
+        visitor_button.pack(fill='x', pady=(0, 15))
+        
+        # Student button (light grey)
+        student_button = tk.Button(
+            content_frame,
+            text="Student",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#d3d3d3',  # Light grey
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.student_action
+        )
+        student_button.pack(fill='x', pady=(0, 30))
+        
+        # Student ID inline textbox on visitor form right panel
+        inline_student_label = tk.Label(
+            content_frame,
+            text="Student ID:",
+            font=('Arial', 12, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        inline_student_label.pack(anchor='w')
+        
+        self.visitor_student_inline_var = tk.StringVar()
+        inline_student_entry = tk.Entry(
+            content_frame,
+            textvariable=self.visitor_student_inline_var,
+            font=('Arial', 14),
+            width=20,
+            relief='solid',
+            bd=1
+        )
+        inline_student_entry.pack(fill='x', pady=(0, 15))
+        inline_student_entry.bind('<Return>', self.submit_student_inline)
+        
+        # Guard in-charge section
+        guard_frame = tk.Frame(content_frame, bg='#1E90FF')
+        guard_frame.pack(fill='x')
+        
+        guard_label = tk.Label(
+            guard_frame,
+            text="Guard in-charge:",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_label.pack(anchor='w')
+        
+        # Get guard name from stored information or use default
+        guard_name = self.current_guard['name'] if self.current_guard else "Unknown Guard"
+        
+        guard_name_label = tk.Label(
+            guard_frame,
+            text=guard_name,
+            font=('Arial', 12),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_name_label.pack(anchor='w')
+    
+    def submit_visitor(self):
+        """Handle visitor form submission"""
+        # Get form data
+        name = self.visitor_name_var.get().strip()
+        contact = self.visitor_contact_var.get().strip()
+        visiting_as = self.visitor_type_var.get()
+        purpose = self.visitor_purpose_var.get().strip()
+        visiting = self.visitor_visiting_var.get().strip()
+        id_type = self.visitor_id_type_var.get()
+        special_pass = self.visitor_special_pass_var.get()  # This will contain the special pass ID if tapped
+        
+        # Validate required fields
+        if not name or not contact or not visiting_as or not purpose or not visiting or not id_type:
+            messagebox.showwarning("Missing Information", "Please fill in all required fields")
+            return
+        
+        # Check if special pass ID is already in use
+        if special_pass and special_pass.strip():
+            is_in_use, existing_visitor = self.db_manager.is_special_pass_in_use(special_pass)
+            if is_in_use:
+                # Show error splash screen
+                self.show_visitor_error_screen(special_pass, existing_visitor['name'], existing_visitor['expires_at'])
+                return
+        
+        # Generate unique visitor ID
+        import uuid
+        visitor_id = str(uuid.uuid4())[:8].upper()
+        
+        # Get current timestamp
+        from datetime import datetime, timedelta
+        current_time = datetime.now()
+        expiry_time = current_time + timedelta(hours=24)
+        
+        # Create visitor record
+        visitor_data = {
+            'id': visitor_id,
+            'name': name,
+            'contact': contact,
+            'visiting_as': visiting_as,
+            'purpose': purpose,
+            'visiting': visiting,
+            'id_type': id_type,
+            'special_pass': special_pass,
+            'created_at': current_time.strftime("%Y-%m-%d %H:%M:%S"),
+            'expires_at': expiry_time.strftime("%Y-%m-%d %H:%M:%S"),
+            'status': 'ACTIVE'
+        }
+        
+        # Save to database
+        success = self.db_manager.add_visitor(visitor_data)
+        
+        if success:
+            # Log the visitor entry
+            self.db_manager.log_access(visitor_id, "VISITOR_REGISTRATION")
+            
+            # Show success splash screen
+            self.show_visitor_success_screen(visitor_id, name, expiry_time.strftime('%Y-%m-%d %H:%M:%S'))
+        else:
+            messagebox.showerror("Registration Failed", "Failed to register visitor. Please try again.")
+    
+
+    
+    def show_visitor_success_screen(self, visitor_id, visitor_name, expiry_time):
+        """Show visitor registration success splash screen"""
+        self.current_screen = "visitor_success"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Left side (white panel with success message)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # Success message frame
+        success_frame = tk.Frame(left_panel, bg='white')
+        success_frame.pack(expand=True)
+        
+        # INFORMATION LINKED text
+        info_linked_label = tk.Label(
+            success_frame,
+            text="INFORMATION LINKED",
+            font=('Arial', 36, 'bold'),
+            fg='#28a745',  # Green
+            bg='white'
+        )
+        info_linked_label.pack(pady=(0, 20))
+        
+        # Special Pass ready message
+        pass_ready_label = tk.Label(
+            success_frame,
+            text=f"Special Pass No. {visitor_id} is ready to use",
+            font=('Arial', 16),
+            fg='black',
+            bg='white'
+        )
+        pass_ready_label.pack(pady=(0, 40))
+        
+        # OK button
+        ok_button = tk.Button(
+            success_frame,
+            text="OK",
+            font=('Arial', 18, 'bold'),
+            fg='white',
+            bg='#007BFF',  # Blue
+            relief='flat',
+            bd=0,
+            padx=60,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_success_ok_action
+        )
+        ok_button.pack()
+        
+        # Right side (blue panel with options)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Content frame for right panel
+        content_frame = tk.Frame(right_panel, bg='#1E90FF')
+        content_frame.pack(expand=True, padx=40, pady=40)
+        
+        # Right panel message area (shared behavior)
+        right_message_text = self.last_response_message if self.last_response_message else "Awaiting ID card scan."
+        self.guard_message_label = tk.Label(
+            content_frame,
+            text=right_message_text,
+            font=('Arial', 20, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.guard_message_label.pack(anchor='w', pady=(0, 30))
+        
+        # Visitor button (bright yellow)
+        visitor_button = tk.Button(
+            content_frame,
+            text="Visitor",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Bright yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_action
+        )
+        visitor_button.pack(fill='x', pady=(0, 15))
+        
+        # Student button (light grey)
+        student_button = tk.Button(
+            content_frame,
+            text="Student",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#d3d3d3',  # Light grey
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.student_action
+        )
+        student_button.pack(fill='x', pady=(0, 30))
+        
+        # Guard in-charge section
+        guard_frame = tk.Frame(content_frame, bg='#1E90FF')
+        guard_frame.pack(fill='x')
+        
+        guard_label = tk.Label(
+            guard_frame,
+            text="Guard in-charge:",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_label.pack(anchor='w')
+        
+        # Get guard name from stored information or use default
+        guard_name = self.current_guard['name'] if self.current_guard else "Unknown Guard"
+        
+        guard_name_label = tk.Label(
+            guard_frame,
+            text=guard_name,
+            font=('Arial', 12),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_name_label.pack(anchor='w')
+        
+        # Footer bar
+        self.create_footer("back")
+    
+    def show_visitor_error_screen(self, special_pass_id, visitor_name, expires_at):
+        """Show visitor registration error splash screen"""
+        self.current_screen = "visitor_error"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Left side (white panel with error message)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # Error message frame
+        error_frame = tk.Frame(left_panel, bg='white')
+        error_frame.pack(expand=True)
+        
+        # ERROR text
+        error_label = tk.Label(
+            error_frame,
+            text="ERROR",
+            font=('Arial', 36, 'bold'),
+            fg='#dc3545',  # Red
+            bg='white'
+        )
+        error_label.pack(pady=(0, 20))
+        
+        # Special Pass active message
+        pass_active_label = tk.Label(
+            error_frame,
+            text=f"Special Pass No. {special_pass_id} is currently active",
+            font=('Arial', 16),
+            fg='black',
+            bg='white'
+        )
+        pass_active_label.pack(pady=(0, 10))
+        
+        # Wait 24 hours message
+        wait_message_label = tk.Label(
+            error_frame,
+            text="Please wait 24 hours after its submission before resubmitting.",
+            font=('Arial', 14),
+            fg='black',
+            bg='white'
+        )
+        wait_message_label.pack(pady=(0, 40))
+        
+        # OK button
+        ok_button = tk.Button(
+            error_frame,
+            text="OK",
+            font=('Arial', 18, 'bold'),
+            fg='white',
+            bg='#007BFF',  # Blue
+            relief='flat',
+            bd=0,
+            padx=60,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_error_ok_action
+        )
+        ok_button.pack()
+        
+        # Right side (blue panel with options)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Content frame for right panel
+        content_frame = tk.Frame(right_panel, bg='#1E90FF')
+        content_frame.pack(expand=True, padx=40, pady=40)
+        
+        # Right panel message area (shared behavior)
+        right_message_text = self.last_response_message if self.last_response_message else "Awaiting ID card scan."
+        self.guard_message_label = tk.Label(
+            content_frame,
+            text=right_message_text,
+            font=('Arial', 20, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.guard_message_label.pack(anchor='w', pady=(0, 30))
+        
+        # Visitor button (bright yellow)
+        visitor_button = tk.Button(
+            content_frame,
+            text="Visitor",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Bright yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_action
+        )
+        visitor_button.pack(fill='x', pady=(0, 15))
+        
+        # Student button (light grey)
+        student_button = tk.Button(
+            content_frame,
+            text="Student",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#d3d3d3',  # Light grey
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.student_action
+        )
+        student_button.pack(fill='x', pady=(0, 30))
+        
+        # Guard in-charge section
+        guard_frame = tk.Frame(content_frame, bg='#1E90FF')
+        guard_frame.pack(fill='x')
+        
+        guard_label = tk.Label(
+            guard_frame,
+            text="Guard in-charge:",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_label.pack(anchor='w')
+        
+        # Get guard name from stored information or use default
+        guard_name = self.current_guard['name'] if self.current_guard else "Unknown Guard"
+        
+        guard_name_label = tk.Label(
+            guard_frame,
+            text=guard_name,
+            font=('Arial', 12),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_name_label.pack(anchor='w')
+        
+        # Footer bar
+        self.create_footer("back")
+    
+    def visitor_success_ok_action(self):
+        """Handle OK button click on visitor success screen"""
+        # Clear form
+        self.clear_visitor_form()
+        # Return to guard splash screen
+        self.show_guard_splash_screen()
+    
+    def visitor_error_ok_action(self):
+        """Handle OK button click on visitor error screen"""
+        # Return to visitor form screen
+        self.show_visitor_form_screen()
+    
+    def clear_visitor_form(self):
+        """Clear the visitor form fields"""
+        self.visitor_name_var.set("")
+        self.visitor_contact_var.set("")
+        self.visitor_type_var.set("")
+        self.visitor_purpose_var.set("")
+        self.visitor_visiting_var.set("")
+        self.visitor_id_type_var.set("")
+        self.visitor_special_pass_var.set("")
+    
+    def student_action(self):
+        """Handle student button click"""
+        self.show_student_entry_screen()
+    
+    def show_student_entry_screen(self):
+        """Show the student number entry screen"""
+        self.current_screen = "student_entry"
+        self.clear_content()
+        
+        # Top banner (orange)
+        self.create_top_banner()
+        
+        # Main content area
+        self.create_student_main_content()
+        
+        # Footer bar
+        self.create_footer("back")
+    
+    def create_student_main_content(self):
+        """Create the main content area for student entry screen"""
+        content_area = tk.Frame(self.content_frame, bg='white')
+        content_area.pack(fill='both', expand=True)
+        
+        # Left side (white panel with student entry)
+        left_panel = tk.Frame(content_area, bg='white')
+        left_panel.pack(side='left', fill='both', expand=True)
+        
+        # Student entry section
+        entry_frame = tk.Frame(left_panel, bg='white')
+        entry_frame.pack(expand=True)
+        
+        # "Enter the Student Number:" text
+        student_label = tk.Label(
+            entry_frame,
+            text="Enter the Student Number:",
+            font=('Arial', 24, 'bold'),
+            fg='black',
+            bg='white'
+        )
+        student_label.pack(pady=(0, 20))
+        
+        # Student number input
+        self.student_number_var = tk.StringVar()
+        student_entry = tk.Entry(
+            entry_frame,
+            textvariable=self.student_number_var,
+            font=('Arial', 18),
+            width=20,
+            relief='solid',
+            bd=1,
+            bg='#f0f0f0'  # Light grey background
+        )
+        student_entry.pack(pady=(0, 20))
+        student_entry.focus()
+        student_entry.bind('<Return>', self.submit_student)
+        
+        # Submit button
+        submit_button = tk.Button(
+            entry_frame,
+            text="Submit",
+            font=('Arial', 16, 'bold'),
+            fg='white',
+            bg='#007BFF',  # Blue
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=10,
+            cursor='hand2',
+            command=self.submit_student
+        )
+        submit_button.pack()
+        
+        # Right side (blue panel with options)
+        right_panel = tk.Frame(content_area, bg='#1E90FF', width=400)
+        right_panel.pack(side='right', fill='y')
+        right_panel.pack_propagate(False)
+        
+        # Content frame for right panel
+        content_frame = tk.Frame(right_panel, bg='#1E90FF')
+        content_frame.pack(expand=True, padx=40, pady=40)
+        
+        # Right panel message area (shared behavior)
+        right_message_text = self.last_response_message if self.last_response_message else "Awaiting ID card scan."
+        self.guard_message_label = tk.Label(
+            content_frame,
+            text=right_message_text,
+            font=('Arial', 20, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        self.guard_message_label.pack(anchor='w', pady=(0, 30))
+        
+        # Visitor button (light grey)
+        visitor_button = tk.Button(
+            content_frame,
+            text="Visitor",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#d3d3d3',  # Light grey
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.visitor_action
+        )
+        visitor_button.pack(fill='x', pady=(0, 15))
+        
+        # Student button (bright yellow)
+        student_button = tk.Button(
+            content_frame,
+            text="Student",
+            font=('Arial', 18, 'bold'),
+            fg='black',
+            bg='#FFD700',  # Bright yellow
+            relief='flat',
+            bd=0,
+            padx=40,
+            pady=15,
+            cursor='hand2',
+            command=self.student_action
+        )
+        student_button.pack(fill='x', pady=(0, 30))
+        
+        # Guard in-charge section
+        guard_frame = tk.Frame(content_frame, bg='#1E90FF')
+        guard_frame.pack(fill='x')
+        
+        guard_label = tk.Label(
+            guard_frame,
+            text="Guard in-charge:",
+            font=('Arial', 14, 'bold'),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_label.pack(anchor='w')
+        
+        # Get guard name from stored information or use default
+        guard_name = self.current_guard['name'] if self.current_guard else "Unknown Guard"
+        
+        guard_name_label = tk.Label(
+            guard_frame,
+            text=guard_name,
+            font=('Arial', 12),
+            fg='white',
+            bg='#1E90FF'
+        )
+        guard_name_label.pack(anchor='w')
+    
+    def submit_student(self, event=None):
+        """Handle student number submission"""
+        student_number = self.student_number_var.get().strip()
+        
+        if not student_number:
+            messagebox.showwarning("Missing Information", "Please enter a student number")
+            return
+        
+        # Check if the entered number is a card ID (exists in database)
+        existing_person = self.db_manager.find_person(student_number)
+        if existing_person:
+            if existing_person['role'] == 'STUDENT_NUMBER':
+                # This is already a registered student number
+                # In-app only: brief success message on panel
+                self.last_response_message = "Student entry recorded successfully."
+                # Clear the input field
+                self.student_number_var.set("")
+                # Return to guard splash screen
+                self.show_guard_splash_screen()
+                return
+            else:
+                # This is a card ID, not a valid student number
+                # In-app only: update panel with invalid message, then auto-reset
+                self.last_response_message = "Unknown / Invalid ID has been scanned."
+                self._schedule_panel_reset()
+                # Clear the input field
+                self.student_number_var.set("")
+                return
+        
+        # Validate student number format (should be 11 digits for this example)
+        if len(student_number) != 11 or not student_number.isdigit():
+            # In-app only: update panel with invalid message, then auto-reset
+            self.last_response_message = "Unknown / Invalid ID has been scanned."
+            self._schedule_panel_reset()
+            # Clear the input field
+            self.student_number_var.set("")
+            return
+        
+        # Log the student entry
+        self.db_manager.log_access(student_number, "MANUAL_STUDENT")
+        
+        # Show success message
+        # In-app only: update message area rather than pop-up, then auto-reset
+        self.last_response_message = "Student entry recorded successfully."
+        self._schedule_panel_reset()
+        
+        # Clear the input field
+        self.student_number_var.set("")
+        
+        # Return to guard splash screen
+        self.show_guard_splash_screen()
+    
+    def submit_student_inline(self, event=None):
+        """Handle student number submission from guard splash inline textbox"""
+        # Choose the active inline var from the screen we're on
+        if self.current_screen == "guard_splash":
+            active_var = self.guard_student_inline_var
+        else:
+            active_var = self.visitor_student_inline_var
+        student_number = active_var.get().strip()
+        
+        if not student_number:
+            messagebox.showwarning("Missing Information", "Please enter a student number")
+            return
+        
+        existing_person = self.db_manager.find_person(student_number)
+        if existing_person:
+            if existing_person['role'] == 'STUDENT_NUMBER':
+                # In-app only: brief success message on panel
+                active_var.set("")
+                self.last_response_message = "Student entry recorded successfully."
+                self.show_guard_splash_screen()
+                return
+            else:
+                active_var.set("")
+                self.last_response_message = "Unknown / Invalid ID has been scanned."
+                self._schedule_panel_reset()
+                return
+        
+        if len(student_number) != 11 or not student_number.isdigit():
+            active_var.set("")
+            self.last_response_message = "Unknown / Invalid ID has been scanned."
+            self._schedule_panel_reset()
+            return
+        
+        self.db_manager.log_access(student_number, "MANUAL_STUDENT")
+        active_var.set("")
+        self.last_response_message = "Student entry recorded successfully."
+        self._schedule_panel_reset()
+        self.show_guard_splash_screen()
+
+    def reset_guard_message(self):
+        """Reset the guard splash message back to default and update the label if present"""
+        self.last_response_message = ""
+        if self.message_reset_after_id is not None:
+            try:
+                self.root.after_cancel(self.message_reset_after_id)
+            except Exception:
+                pass
+            self.message_reset_after_id = None
+        if self.current_screen == "guard_splash" and self.guard_message_label is not None:
+            self.guard_message_label.config(text="Awaiting ID card scan.")
+
+    def _schedule_panel_reset(self):
+        """Schedule the right-panel message to return to default in 5s."""
+        if self.message_reset_after_id is not None:
+            try:
+                self.root.after_cancel(self.message_reset_after_id)
+            except Exception:
+                pass
+        self.message_reset_after_id = self.root.after(5000, self.reset_guard_message)
+    
+    def logout_action(self, event=None):
+        """Handle logout button click"""
+        # In-app only: immediate logout without modal
+        result = True
+        if result:
+            # Clear current guard information
+            self.current_guard = None
+            self.show_login_screen()
+    
+    def back_action(self, event=None):
+        """Handle back button click"""
+        if self.current_screen == "turnstile":
+            # From turnstile screen, go back to login
+            self.show_login_screen()
+        else:
+            # From other screens (visitor form, student entry), go back to guard splash
+            self.show_guard_splash_screen()
+    
+    def quit_action(self, event=None):
+        """Handle quit button click"""
+        # In-app only: immediate quit without modal
+        result = True
+        if result:
+            self.root.quit()
+
+def main():
+    """Main function"""
+    root = tk.Tk()
+    app = AINiformApp(root)
+    
+    # Center the window on screen
+    root.update_idletasks()
+    width = root.winfo_width()
+    height = root.winfo_height()
+    x = (root.winfo_screenwidth() // 2) - (width // 2)
+    y = (root.winfo_screenheight() // 2) - (height // 2)
+    root.geometry(f'{width}x{height}+{x}+{y}')
+    
+    root.mainloop()
+
+if __name__ == "__main__":
+    main(),TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 15:58:18,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 15:58:59,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 16:04:02,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-14 16:04:35,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 16:04:36,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 16:04:54,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:05:01,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 16:05:01,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 16:05:48,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-14 16:07:57,DD370FA1,VISITOR_REGISTRATION,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 16:23:25,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:31:46,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:39:51,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:42:31,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:43:35,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 16:44:14,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 16:44:24,0095272825,TAP,STUDENT,Ichiro Yamazaki,SUCCESS
+2025-08-14 16:44:29,0095277892,TAP,STUDENT_RFID,02000226227,SUCCESS
+2025-08-14 16:44:33,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 16:59:14,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:00:03,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:00:51,0095272825,TAP,STUDENT,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:00:57,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:10:53,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:11:31,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:11:48,0095277892,TAP,STUDENT_RFID,02000226227,SUCCESS
+2025-08-14 17:11:59,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-14 17:15:45,0095277892,TAP,STUDENT_RFID,02000226227,SUCCESS
+2025-08-14 17:15:48,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:15:49,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:21:36,0095272825,TAP,STUDENT,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:21:42,0095520658,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:21:51,0095520658,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:21:51,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:21:59,0095520658,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:22:00,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:22:00,0095520658,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:22:42,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:22:42,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-14 17:22:43,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 17:22:56,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:22:57,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 17:22:58,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-14 17:25:36,0095272249,TAP,GUARD,John Patrick Dulap,SUCCESS
+2025-08-14 17:33:21,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:33:46,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:34:06,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:35:12,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:36:03,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:37:03,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-14 17:55:23,0443167315,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:55:29,0443167315,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:55:29,0443167315,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:55:29,044316,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-14 17:55:36,0095272825,TAP,STUDENT,Ichiro Yamazaki,SUCCESS
+2025-08-14 17:55:54,0095081841,TAP,GUARD,Ichiro Yamazaki,SUCCESS
+2025-08-17 18:13:29,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-17 18:19:03,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-17 18:20:45,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-17 18:23:19,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-17 18:25:51,0095243442,TAP,GUARD,John Jason Domingo,SUCCESS
+2025-08-17 18:32:07,image-elements,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-17 18:45:14,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-17 18:48:17,Turnstile is Closed,TAP,UNKNOWN,UNKNOWN,FAILED
+2025-08-17 18:48:20,0095339862,TAP,GUARD,Arvin Jay De Guzman,SUCCESS
+2025-08-17 19:51:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 19:51:36,0095243442,GUARD_LOGIN,SUCCESS
+2025-08-17 19:54:29,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 19:54:33,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 19:54:36,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 19:55:31,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 19:56:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 19:57:03,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 19:57:15,1234567890,GUARD_LOGIN,SUCCESS
+2025-08-17 19:57:20,0095272825,GUARD_LOGIN,SUCCESS
+2025-08-17 19:57:23,02000226226,GUARD_LOGIN,SUCCESS
+2025-08-17 19:57:28,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 19:58:25,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 19:58:39,0095081841,GUARD_LOGOUT,SUCCESS
+2025-08-17 19:58:41,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 19:58:50,0095081841,GUARD_LOGOUT,SUCCESS
+2025-08-17 19:58:53,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 19:59:48,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 20:00:16,09D12217,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:02:16,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 20:03:03,F28E3507,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:04:40,0095081841,GUARD_LOGIN,SUCCESS
+2025-08-17 20:04:56,4AD761FE,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:05:28,7A41C769,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:09:39,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:09:52,0095339862,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:10:41,8765432109,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 20:19:02,8765432109,GUARD_LOGIN,SUCCESS
+2025-08-17 20:19:07,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:29:16,Awaiting ID card scan.,GUARD_LOGIN,SUCCESS
+2025-08-17 20:29:37,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:37:58,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:38:18,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 20:44:50,ID Number:,GUARD_LOGIN,SUCCESS
+2025-08-17 20:44:56,0095272825,GUARD_LOGIN,SUCCESS
+2025-08-17 20:45:00,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:45:07,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:45:10,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:45:11,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:45:19,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:45:27,0095243443,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:47:08,0095243443,GUARD_LOGIN,SUCCESS
+2025-08-17 20:47:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:47:16,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:47:20,02000226226,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:47:28,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 20:47:31,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:47:36,0095243443,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:53:53,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 20:54:00,02000226226,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:54:16,7654321099,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:54:25,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:54:49,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:54:57,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:54:58,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:55:08,1111111111,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:55:41,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:55:42,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:55:43,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 20:55:56,8765432109,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:54:16,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 21:54:23,1111111111,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:54:30,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:56:10,9876543210,GUARD_LOGIN,SUCCESS
+2025-08-17 21:56:13,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 21:56:17,0095243443,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:56:23,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:56:37,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 21:57:03,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 21:57:11,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 21:57:13,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 21:57:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:58:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:59:06,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:59:20,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:59:27,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:59:31,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 21:59:38,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:11:45,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:11:51,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:13:28,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:14:10,7654321098,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:17:34,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 22:20:54,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:20:59,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 22:21:01,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:22:18,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:22:22,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:24:55,0095365253,GUARD_LOGIN,SUCCESS
+2025-08-17 22:25:00,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:25:00,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:25:06,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:25:11,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:25:13,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:25:15,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:25:28,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:27:18,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:27:24,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:27:47,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:28:09,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:16,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:30,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:36,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:41,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:42,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:29:43,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:30:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:30:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:30:59,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:32:17,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 22:32:21,0095365253,GUARD_LOGIN,SUCCESS
+2025-08-17 22:32:22,0095365253,GUARD_LOGIN,SUCCESS
+2025-08-17 22:32:25,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:33:37,0095339862,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:36:50,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:36:57,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:36:59,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:36:59,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:37:00,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:37:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:31,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:39:39,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:24,0095339862,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:40:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:32,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:32,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:33,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:33,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:34,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:34,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:35,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:35,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:36,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:36,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:37,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:37,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:39,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:39,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:40,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:40,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:41,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:42,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:42,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:42,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:44,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:40:48,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:41:06,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:41:07,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:41:08,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:41:28,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:41:28,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:42:54,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 22:44:56,0095365253,GUARD_LOGIN,SUCCESS
+2025-08-17 22:44:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:45:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:15,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:16,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:16,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:16,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:31,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:45:35,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:42,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:44,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:45:46,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:46:19,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:46:24,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:46:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:46:50,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:46:56,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:47:32,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:47:34,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:47:35,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:32,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:36,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:36,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:39,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:39,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:39,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:40,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:40,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:41,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:41,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:41,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:53,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:48:55,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:57,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:48:58,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:53:09,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:53:13,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:53:13,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:53:25,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:53:29,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:54:20,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:54:20,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 22:54:25,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:54:35,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:22,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:35,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 22:55:38,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:40,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:41,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:42,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:45,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:55:45,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:01,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 22:56:04,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:01:02,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 23:01:07,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:01:26,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 23:01:29,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:01:32,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:01:56,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:01:59,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:00,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:02,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:05,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:20,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:23,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:24,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:25,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:27,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:28,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:33,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:02:36,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:15,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:15,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:16,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:17,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:17,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:18,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:18,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:03:36,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 23:03:48,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:04:28,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 23:04:48,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 23:04:51,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:04:54,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:05:11,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:05:22,0095365253,VISITOR_REGISTRATION,SUCCESS
+2025-08-17 23:05:25,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:05:28,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:05:32,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:05:35,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:03,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:10,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:09:30,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 23:09:36,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-17 23:13:29,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-17 23:20:36,0095520658,GUARD_LOGIN,SUCCESS
+2025-08-17 23:20:40,0095272825,GUARD_LOGIN,SUCCESS
+2025-08-17 23:20:45,0095243442,GUARD_LOGIN,SUCCESS
+2025-08-17 23:20:49,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:49,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:50,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:51,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:51,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:55,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:55,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:56,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:56,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:20:59,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:00,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:03,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:03,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:03,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:09,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:11,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:11,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:21:12,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:27,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:32,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:36,0095095703,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:36,0095095703,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:42,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:43,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:44,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:44,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:45,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:45,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:45,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:46,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:46,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:47,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:47,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:48,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:48,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:22:49,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:23,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:23,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:23,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:24,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:24,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:24,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:24,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:25,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:44,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:44,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:45,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:45,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:46,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:47,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:48,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:48,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:48,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:49,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:50,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:50,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:23:58,0095095703,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:04,0095129433,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:10,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:22,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:25,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:37,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:24:40,0095365253,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:56,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:56,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:57,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:57,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:25:57,0095243442,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:00,0095272249,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:01,0095272249,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:01,0095272249,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:01,0095272249,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:01,0095272249,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:05,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:06,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:06,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:06,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:07,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:13,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:13,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:14,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:14,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:14,0095520658,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:20,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:21,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:21,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:22,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:22,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:28,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:28,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:28,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:29,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-17 23:26:29,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 07:17:17,0095243442,GUARD_LOGOUT,SUCCESS
+2025-08-18 07:18:58,0095243442,GUARD_LOGIN,SUCCESS
+2025-08-18 08:36:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:36:37,0095081841,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:36:42,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:36:47,0095277892,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:37:23,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 08:39:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:39:48,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:39:52,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:40:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:40:09,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:40:46,Turnstile is Closed,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:40:54,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:40:56,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:43:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:43:30,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:43:35,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:43:56,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:43:58,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:46:15,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:46:21,02000226226,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:46:31,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:46:36,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:50:50,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:50:52,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:51:02,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:51:05,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:53:40,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:53:51,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:53:55,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:59:15,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 08:59:21,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 08:59:26,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 08:59:36,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 08:59:41,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 09:00:27,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:00:41,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:00:45,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:05:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:06:05,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:06:09,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:11:36,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 09:25:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:26:14,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:26:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:27:53,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:27:54,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:28:08,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:28:10,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:28:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:28:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:28:32,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:28:33,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:34:59,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:35:01,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:44:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:44:08,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:45:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:46:01,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:46:04,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:49:02,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:49:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:49:09,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:51:20,=== YOLO DETECTION RESULTS ===
+Total objects detected: 4
+Object breakdown:
+  - black shoes: 1
+  - ict logo: 1
+  - ict longsleeve: 1
+  - ict pants: 1
+✓ ICT Uniform detected (4 parts): black shoes, ict logo, ict longsleeve, ict pants
+✓ COMPLIANCE: CLEAN
+===================================,GUARD_LOGIN,SUCCESS
+2025-08-18 09:51:25,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:51:30,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:51:35,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:54:10,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:54:15,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:54:21,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:56:07,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 09:56:30,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 09:56:33,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 09:56:49,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 10:03:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:03:58,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:04:02,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:04:18,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-18 10:16:19,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:16:27,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:16:33,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:18:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:18:45,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:18:48,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:21:15,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:21:21,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:21:23,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:25:11,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:25:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:25:21,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:28:51,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:28:55,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:28:58,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:29:15,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:29:16,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:42:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:42:47,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:42:49,0095277892,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:47:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:47:28,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:47:32,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:51:11,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-18 10:51:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:51:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-18 10:51:30,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-18 10:51:31,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-23 09:24:16,(.venv) ichiroyamazaki@Ichiros-MacBook-Air ainiform v2.2 % "/Users/ichiroyamazaki/Desktop/ainiform v2.2/.venv/bin/python" "/Users/ichiroyamazaki/Desktop/ainiform v2.2/ai_niform_login.py"
+Traceback (most recent call last):
+  File "/Users/ichiroyamazaki/Desktop/ainiform v2.2/ai_niform_login.py", line 3, in <module>
+    from PIL import Image, ImageTk
+ModuleNotFoundError: No module named 'PIL',GUARD_LOGIN,SUCCESS
+2025-08-23 09:24:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-23 09:24:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-23 09:24:35,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-23 09:24:36,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-23 09:25:16,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:09:18,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:09:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:09:30,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:12:31,testmainscreen.py,GUARD_LOGIN,SUCCESS
+2025-08-24 22:12:36,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:13:49,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:16:05,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:18:37,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:18:54,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:20:21,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:20:28,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:21:54,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:22:08,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:22:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:24:21,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:24:34,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:24:57,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:25:05,0095272825,STUDENT_ACCESS,SUCCESS
+2025-08-24 22:25:32,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:27:46,9876543210,GUARD_LOGIN,SUCCESS
+2025-08-24 22:27:51,0095272825,GUARD_LOGIN,SUCCESS
+2025-08-24 22:27:54,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:28:02,0095339862,GUARD_LOGOUT,SUCCESS
+2025-08-24 22:28:04,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:28:18,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:31:04,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:31:45,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:32:00,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:34:19,Create a new computer-related and IT law based on cybersecurity in the computer engineering field that needs
+more attention or guidelines.
+• Provide the necessary details about your law by filling out the information below.
+• Feel free to customize the format according to your answer.
+Law Name:
+Definition of Terms:
+(Define jargons/slangs that will be used)
+Objectives:
+a)
+b)
+…
+Grounds for Punishment:
+a)
+b)
+…
+Penalties:
+Amount:
+Imprisonment Rules:
+Note: It is advised to visit the Official Gazette of the Philippines website and use an existing law as a reference for your
+answers.,GUARD_LOGIN,SUCCESS
+2025-08-24 22:34:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:34:35,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:32,Cybersecurity Accountability and Resilience Act (CARA),GUARD_LOGIN,SUCCESS
+2025-08-24 22:37:35,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:37:43,0095339862',GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:47,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:51,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:55,j0095339862j,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:56,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:37:57,j0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:39:57,Unknown / Invalid ID  has been scanned.,GUARD_LOGIN,SUCCESS
+2025-08-24 22:40:02,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:40:10,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:40:13,k0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:40:15,k0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-08-24 22:42:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-08-24 22:42:20,s0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-01 23:50:24,ainiform v3,GUARD_LOGIN,SUCCESS
+2025-09-01 23:50:30,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-01 23:50:43,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-01 23:52:17,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-01 23:52:28,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-01 23:53:02,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-01 23:53:20,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-01 23:55:26,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-01 23:57:00,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-01 23:57:58,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:02:34,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 00:02:38,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:02:54,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:05:25,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:05:33,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:33:41,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 00:33:45,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:34:17,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:34:55,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:35:25,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:35:30,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:40:36,if i tapped a invalid ID that doesnt have in the database, the message on the guard screen is must be still the same in the main screen. please add it that feature,GUARD_LOGIN,SUCCESS
+2025-09-02 00:40:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:40:54,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 00:41:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:42:08,position_on_secondary_monitor,GUARD_LOGIN,SUCCESS
+2025-09-02 00:42:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:42:26,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:42:48,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:42:57,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:43:05,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:43:14,1111111111,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:45:06,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:45:19,9876543214,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:46:30,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:46:36,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:46:48,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:49:08,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 00:49:11,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:49:26,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:49:39,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:49:43,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:49:47,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:53:00,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 00:53:05,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:53:17,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:53:25,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:53:49,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 00:53:52,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 00:54:00,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:54:06,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 00:55:07,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 12:01:55,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 12:02:15,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:02:42,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:03:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:03:41,9876543214,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:03:52,9876543214,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:06:03,9876543214,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:06:20,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:06:27,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:19:34,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 12:22:08,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 12:22:14,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:31:17,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:31:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 12:34:05,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 12:34:10,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:34:13,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 12:40:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 12:40:52,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-02 12:42:14,Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.13/3.13.6/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/__init__.py", line 2068, in __call__
+    return self.func(*args)
+           ~~~~~~~~~^^^^^^^
+  File "/Users/ichiroyamazaki/Desktop/ainiform v3.1 fixed/ai_niform_login.py", line 2907, in submit_student_number
+    self.trigger_scanning_process_for_student(person_data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/ichiroyamazaki/Desktop/ainiform v3.1 fixed/ai_niform_login.py", line 2927, in trigger_scanning_process_for_student
+    self.show_student_teacher_splash(person_data, duration=7)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ichiroyamazaki/Desktop/ainiform v3.1 fixed/ai_niform_login.py", line 3113, in show_student_teacher_splash
+    self.disable_logout_button()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/ichiroyamazaki/Desktop/ainiform v3.1 fixed/ai_niform_login.py", line 1892, in disable_logout_button
+    self.logout_button_frame.configure(bg='#CCCCCC')  # Gray
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.6/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/__init__.py", line 1822, in configure
+    return self._configure('configure', cnf, kw)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.6/Frameworks/Python.framework/Versions/3.13/lib/python3.13/tkinter/__init__.py", line 1812, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: invalid command name ".!frame.!frame3.!frame3",GUARD_LOGIN,SUCCESS
+2025-09-02 12:42:18,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 12:42:27,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-02 12:42:48,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-02 12:47:41,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 12:47:43,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 13:30:57,raspberry pi privacy settings camera,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 13:54:26,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 13:54:28,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 13:54:39,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 13:54:41,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 13:55:04,02000226227,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-02 13:56:45,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 13:56:50,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:00:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:00:19,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 14:00:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:00:28,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 14:00:31,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:00:46,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 14:01:28,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:02:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 14:03:20,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 14:03:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:03:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 14:07:37,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 14:07:42,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 14:08:54,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 14:08:56,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 14:09:15,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 14:09:22,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:31:59,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:32:08,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:39:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:39:37,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-02 15:39:44,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:44:31,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:44:43,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:44:46,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 15:44:58,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:45:00,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-02 15:45:16,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:45:22,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:45:28,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:45:34,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:50:55,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 15:50:59,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:51:10,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:51:41,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:53:19,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 15:53:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:53:29,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:53:34,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:53:43,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:53:49,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:55:59,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 15:56:04,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 15:56:11,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:01:40,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 16:01:45,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:01:49,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:02:21,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-02 16:02:25,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-02 16:02:38,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:02:42,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:02:50,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-02 16:03:01,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:44:27,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 12:44:39,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:44:43,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:45:51,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:46:01,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:49:04,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:49:07,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:49:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:49:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:52:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 12:52:24,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:52:27,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:52:41,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:52:43,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:53:54,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 12:53:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 12:54:00,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 12:54:02,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:54:05,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:54:23,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:54:25,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:55:55,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 12:56:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:56:10,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 12:58:37,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 12:58:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 12:58:46,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 12:58:51,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 13:04:09,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 13:04:19,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 13:04:22,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 13:17:00,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 13:17:03,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 13:17:05,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 13:17:05,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 13:17:13,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 13:17:16,0095277892,STUDENT_ACCESS,SUCCESS
+2025-09-03 13:17:26,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 13:17:27,0095277892,STUDENT_ACCESS,SUCCESS
+2025-09-03 13:19:33,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 13:19:39,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 13:19:42,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 13:19:57,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-03 14:21:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 14:21:33,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:21:45,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:21:48,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:22:06,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:22:08,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:35:37,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 14:35:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 14:35:46,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:35:48,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:36:04,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-03 14:46:42,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 14:46:57,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:47:00,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:47:16,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-03 14:55:46,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 14:55:51,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:55:53,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:56:15,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:56:17,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:57:54,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 14:57:57,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 14:58:08,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:58:11,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 14:58:25,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 14:58:27,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:02:06,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:02:09,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:12:32,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:12:40,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:12:42,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:12:53,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:12:55,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:13:05,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:13:07,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:16:46,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:16:57,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:17:00,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:20:54,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:21:06,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:21:12,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:21:15,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:25:21,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:25:29,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:25:40,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:25:43,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:26:10,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:26:15,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:26:18,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:27:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:27:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:30:44,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:30:53,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:30:55,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:31:16,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:31:18,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:31:28,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:31:30,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:39:14,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:39:25,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:39:30,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:43:25,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 15:43:29,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:43:37,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:43:40,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:44:13,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:48:30,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:48:36,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:48:55,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:48:58,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:49:14,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:51:55,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:52:00,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:52:03,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:52:18,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:56:41,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-03 15:56:44,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-03 15:56:50,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-03 15:56:53,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-03 15:57:05,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:02:38,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:03:15,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:03:19,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:06:10,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:06:38,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:06:43,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:08:00,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:08:37,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:08:44,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:08:48,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:08:51,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:08:54,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:09:06,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:18:12,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:20:22,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:20:48,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:22:11,9876543212,GUARD_LOGIN,SUCCESS
+2025-09-07 18:22:15,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:22:20,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:22:25,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:22:26,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:22:28,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:22:29,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:22:36,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:25:26,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:25:36,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:25:46,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:25:58,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:27:51,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:28:20,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-07 18:28:27,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:28:35,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:28:37,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:28:38,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-07 18:28:39,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:29:19,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:29:50,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:29:56,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:33:29,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:33:40,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:33:55,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:37:54,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-08 14:37:58,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:40:53,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-08 14:46:24,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:46:34,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:46:44,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:52:09,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:52:19,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:52:27,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:53:20,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:54:37,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:54:43,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:54:52,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:54:59,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:55:18,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:57:36,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 14:57:41,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:57:46,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 14:58:18,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-08 15:01:44,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 15:01:59,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-08 15:02:41,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 15:02:49,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 15:02:49,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-08 15:03:55,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-08 15:06:47,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-08 15:06:54,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 15:07:02,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-08 15:07:51,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-08 15:07:52,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 07:51:22,__pycache__access_log.txtai_niform_login.pyapprove-button.pybest.ptdatabase_manager.pydatabase.txtimage-elementsimage-studentsimage-teachersmain_screen_status.txtold-testcamyolo.pyREADME_INTEGRATION.mdrequirements.txttest_integration.pytestmainscreen.pyviolations.txtvisitors.txt,GUARD_LOGIN,SUCCESS
+2025-09-09 07:51:26,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 07:52:08,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 07:52:11,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 07:55:48,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-09 07:57:26,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-09 07:57:38,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 07:58:40,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 07:58:52,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-09 08:01:28,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:01:41,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:01:44,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:01:57,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:05:17,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:05:26,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:05:35,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:06:21,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:13:42,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-09 08:13:45,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:13:54,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:14:03,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:19:24,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-09 08:19:28,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:19:36,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:26:41,9876543210,GUARD_LOGIN,SUCCESS
+2025-09-09 08:26:45,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:26:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:26:57,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:27:05,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:27:22,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:27:24,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:27:44,02000226226,STUDENT_NUMBER_SCAN,SUCCESS
+2025-09-09 08:35:37,Instructions Scan.png,GUARD_LOGIN,SUCCESS
+2025-09-09 08:35:40,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:35:51,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:35:58,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:36:13,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:36:16,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:39:48,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:39:59,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:40:02,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:44:26,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:44:38,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:44:40,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:44:49,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:44:50,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:45:09,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:45:11,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:50:43,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:50:50,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:50:52,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:51:13,0095277892,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:51:15,0095277892,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:52:11,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:52:13,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:52:38,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:52:40,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 08:53:02,0095339862,GUARD_LOGOUT,SUCCESS
+2025-09-09 08:58:44,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 08:58:49,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:50,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:50,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:50,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:51,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:51,v0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:52,v0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:52,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:53,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:54,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:55,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:55,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:55,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:56,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:56,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:56,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:56,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:57,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:57,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:57,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:58,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:58,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:58,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:58:59,vvv0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:00,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:01,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:01,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:11,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:16,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:27,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 08:59:31,9876543210,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:00:21,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:00:31,9876543212,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:00:44,9876543214,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:12,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:16,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:18,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:19,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:20,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:21,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:21,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:21,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:21,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:22,00953398620095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:22,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:23,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:23,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:23,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:24,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:24,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:24,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:25,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:25,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:25,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:26,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:27,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:28,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:29,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:30,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:31,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:32,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:32,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:01:32,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:02:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:02:10,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:02:38,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:02:39,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:03:51,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:03:53,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:04:04,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:04:05,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:04:18,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:04:20,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:08:01,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 09:08:06,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:08:08,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:08:31,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:08:33,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:10:49,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:10:51,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:34:51,0095272825,GUARD_LOGIN,SUCCESS
+2025-09-09 09:34:55,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 09:35:00,0095339862,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:35:07,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:35:09,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:35:27,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:35:29,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:41:25,0095339862,GUARD,Arvin Jay De Guzman,ACTIVE,,0,GUARD_LOGIN,SUCCESS
+2025-09-09 09:41:29,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 09:41:35,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:41:36,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:41:52,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:41:54,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:42:04,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:42:05,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:43:14,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:43:16,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:43:33,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:43:34,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:48:21,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 09:48:31,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:48:33,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:51:38,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 09:51:45,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:51:47,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:51:58,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:52:00,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 09:52:14,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 09:52:15,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 10:00:03,0095339862,GUARD_LOGIN,SUCCESS
+2025-09-09 10:00:09,0095272825,GUARD_CARD_SCAN,SUCCESS
+2025-09-09 10:00:11,0095272825,STUDENT_ACCESS,SUCCESS
+2025-09-09 10:00:43,0095339862,GUARD_LOGOUT,SUCCESS
