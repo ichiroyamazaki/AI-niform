@@ -1,11 +1,31 @@
-# AI-niform Consolidated Project
+# AI-niform: Automated Uniform Compliance Detection System
 
-This is a consolidated version of all AI-niform repositories, organized into a clean structure with duplicates removed.
+> 🎓 Academic Project | 📚 Educational Use Only  
+> Developed as part of the Bachelor of Science in Computer Engineering program at STI College Balagtas
 
-## Project Structure
+---
+
+## 🔧 Key Features
+
+* **Computer Vision with YOLOv8 & OpenCV** – Real-time detection of proper school uniforms
+* **Raspberry Pi 4 Integration** – Processing unit for camera and RFID modules
+* **RFID Attendance Tracking** – Automated entry/exit logging with ID cards
+* **Firebase Cloud Services** – Secure storage of attendance records and violation logs
+* **Automated Notifications** – Alerts sent to parents/guardians for violations or entry/exit events
+* **Web Application Dashboard** – Easy access to compliance records and violation history
+
+---
+
+## 🎯 Purpose
+
+This repository demonstrates how AI-powered systems can be applied to real-world school management challenges, reducing staff workload and improving discipline enforcement.
+
+---
+
+## 📁 Project Structure
 
 ```
-AI-niform-Consolidated/
+AI-niform/
 ├── main-application/     # Core application files
 │   ├── ai_niform_login.py      # Main login interface
 │   ├── database_manager.py     # Database operations
@@ -43,7 +63,9 @@ AI-niform-Consolidated/
     └── ...
 ```
 
-## Quick Start
+---
+
+## 🚀 Quick Start
 
 ### Main Application
 ```bash
@@ -65,7 +87,9 @@ cd hardware
 python solenoid_controller.py
 ```
 
-## Features
+---
+
+## ✨ Features
 
 - **Access Control**: RFID-based turnstile access control system
 - **Uniform Detection**: YOLO-based uniform compliance monitoring
@@ -73,22 +97,30 @@ python solenoid_controller.py
 - **Notifications**: Email and SMS notification system
 - **Hardware Integration**: Arduino-based turnstile and solenoid control
 
-## Source Repositories
+---
 
-This consolidated version was created from:
-- AI-niformV2
-- AIniformUnstable
-- AIniformFinals
-- AIniformSemiFinals
-- ainiformguardweb
-- emailtestnotification
-- smstestnotification
-- turnstiletest
-- ainiformpublic
+## ⚠️ Disclaimer
 
-## Notes
+This project is **protected under CoolFire TechLabs Inc.**  
+It is **not authorized for business or commercial use**.  
+Any reproduction, modification, or deployment outside educational or research contexts must respect this restriction.
 
-- Duplicate files have been removed, keeping the most recent/complete versions
-- Historical versions are preserved in the original repository folders
-- All functionality has been consolidated into this single structure
+---
 
+## 📚 Additional Documentation
+
+For more detailed information, please refer to the documentation folder:
+- `documentation/README_INTEGRATION.md` - Integration guide
+- `documentation/README_TURNSTILE.md` - Turnstile setup guide
+- `documentation/README_WEB.md` - Web interface documentation
+- `documentation/TURNSTILE_PYTHON_README.md` - Python turnstile control guide
+
+---
+
+## 🔗 Resources
+
+- Project Website: [coolfirenetwork.weebly.com/ai-niform.html](https://coolfirenetwork.weebly.com/ai-niform.html)
+
+---
+
+**AI-niform** - Smart Access Control for Modern Institutions
