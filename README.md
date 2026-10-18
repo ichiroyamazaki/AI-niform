@@ -101,7 +101,7 @@ python solenoid_controller.py
 
 ## ⚠️ Disclaimer
 
-This project is **protected under CoolFire TechLabs Inc.**  
+This project is **protected under GoForAll Worldwide Corporation**  
 It is **not authorized for business or commercial use**.  
 Any reproduction, modification, or deployment outside educational or research contexts must respect this restriction.
 
@@ -119,7 +119,7 @@ For more detailed information, please refer to the documentation folder:
 
 ## 🔗 Resources
 
-- Project Website: [coolfirenetwork.weebly.com/ai-niform.html](https://coolfirenetwork.weebly.com/ai-niform.html)
+- Project Website: [goforallcorp.weebly.com/](https://goforallcorp.weebly.com/)
 
 ---
 
